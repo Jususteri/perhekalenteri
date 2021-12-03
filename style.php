@@ -20,7 +20,7 @@ body {
   font-family: 'Lato', sans-serif;
   margin: 0;
   padding: 0;
-}
+  }
 
 h1 {
   font-family: '<?php echo $headerfonts[$header]['name']?>', sans-serif;
@@ -36,6 +36,7 @@ h1 {
   background-size: 100%;
   margin: 0;
 }
+
 
 table {
   width: 100%;
